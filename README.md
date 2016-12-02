@@ -1,4 +1,3 @@
 # hello-world
 
-hello world!!!
-my name is Mzi. I'm student.
+just another repository
